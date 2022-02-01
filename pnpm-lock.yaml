@@ -20,7 +20,7 @@ importers:
       eslint-plugin-prettier: 3.4.0
       fs-extra: 10.0.0
       globby: 11.0.4
-      husky: 7.0.1
+      husky: 7.0.4
       jest-cli: 27.0.6
       jsdoc-to-markdown: 7.0.1
       lint-staged: 11.1.2
@@ -51,7 +51,7 @@ importers:
       eslint-plugin-prettier: 3.4.0_0470f3bcd018a045da11d0bbb868d6c6
       fs-extra: 10.0.0
       globby: 11.0.4
-      husky: 7.0.1
+      husky: 7.0.4
       jest-cli: 27.0.6
       jsdoc-to-markdown: 7.0.1
       lint-staged: 11.1.2
@@ -6123,8 +6123,8 @@ packages:
     resolution: {integrity: sha512-B4FFZ6q/T2jhhksgkbEW3HBvWIfDW85snkQgawt07S7J5QXTk6BkNV+0yAeZrM5QpMAdYlocGoljn0sJ/WQkFw==}
     engines: {node: '>=10.17.0'}
 
-  /husky/7.0.1:
-    resolution: {integrity: sha512-gceRaITVZ+cJH9sNHqx5tFwbzlLCVxtVZcusME8JYQ8Edy5mpGDOqD8QBCdMhpyo9a+JXddnujQ4rpY2Ff9SJA==}
+  /husky/7.0.4:
+    resolution: {integrity: sha512-vbaCKN2QLtP/vD4yvs6iz6hBEo6wkSzs8HpRah1Z6aGmF2KW5PdYuAd7uX5a+OyBZHBhd+TFLqgjUgytQr4RvQ==}
     engines: {node: '>=12'}
     hasBin: true
     dev: true
