@@ -28,7 +28,7 @@ importers:
       path-sort: 0.1.0
       prettier: 2.3.2
       replace-in-file: 6.2.0
-      source-map-support: 0.5.19
+      source-map-support: 0.5.21
       ts-jsdoc: 3.2.2
       typescript: 4.3.5
       typescript-json-schema: 0.51.0
@@ -59,7 +59,7 @@ importers:
       path-sort: 0.1.0
       prettier: 2.3.2
       replace-in-file: 6.2.0
-      source-map-support: 0.5.19
+      source-map-support: 0.5.21
       ts-jsdoc: 3.2.2_typescript@4.3.5
       typescript: 4.3.5
       typescript-json-schema: 0.51.0
@@ -9186,13 +9186,6 @@ packages:
       urix: 0.1.0
     dev: true
 
-  /source-map-support/0.5.19:
-    resolution: {integrity: sha512-Wonm7zOCIJzBGQdB+thsPar0kYuCIzYvxZwlBa87yi/Mdjv7Tip2cyVbLj5o0cFPN4EVkuTwb3GDDyUx2DGnGw==}
-    dependencies:
-      buffer-from: 1.1.2
-      source-map: 0.6.1
-    dev: true
-
   /source-map-support/0.5.21:
     resolution: {integrity: sha512-uBHU3L3czsIyYXKX88fdrGovxdSCoTGDRZ6SYXtSRxLZUzHg5P/66Ht6uoUlHu9EZod+inXhKo3qQgwXUT/y1w==}
     dependencies:
@@ -9702,7 +9695,7 @@ packages:
       chalk: 4.1.2
       doctrine: 3.0.0
       fs-extra: 10.0.0
-      source-map-support: 0.5.19
+      source-map-support: 0.5.21
       typescript: 4.3.5
     dev: true
 
