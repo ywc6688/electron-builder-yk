@@ -12,7 +12,7 @@ importers:
       '@typescript-eslint/eslint-plugin': 4.33.0
       '@typescript-eslint/parser': 4.33.0
       catharsis: 0.9.0
-      conventional-changelog-cli: 2.1.1
+      conventional-changelog-cli: 2.2.2
       dmd: 6.0.0
       dmg-license: 1.0.9
       eslint: 7.30.0
@@ -44,7 +44,7 @@ importers:
       '@typescript-eslint/eslint-plugin': 4.33.0_65ddc1d1d88b272942c69b5709e1addf
       '@typescript-eslint/parser': 4.33.0_eslint@7.30.0+typescript@4.3.5
       catharsis: 0.9.0
-      conventional-changelog-cli: 2.1.1
+      conventional-changelog-cli: 2.2.2
       dmd: 6.0.0
       eslint: 7.30.0
       eslint-config-prettier: 8.3.0_eslint@7.30.0
@@ -465,7 +465,7 @@ packages:
   /@babel/code-frame/7.12.11:
     resolution: {integrity: sha512-Zt1yodBx1UcyiePMSkWnU4hPqhwq7hGi2nFL1LeA3EUl+q2LQx16MISgJ0+z7dnmgvP9QtIleuETGOiOH1RcIw==}
     dependencies:
-      '@babel/highlight': 7.16.0
+      '@babel/highlight': 7.16.7
     dev: true
 
   /@babel/code-frame/7.16.0:
@@ -4087,8 +4087,8 @@ packages:
       q: 1.5.1
     dev: true
 
-  /conventional-changelog-cli/2.1.1:
-    resolution: {integrity: sha512-xMGQdKJ+4XFDDgfX5aK7UNFduvJMbvF5BB+g0OdVhA3rYdYyhctrIE2Al+WYdZeKTdg9YzMWF2iFPT8MupIwng==}
+  /conventional-changelog-cli/2.2.2:
+    resolution: {integrity: sha512-8grMV5Jo8S0kP3yoMeJxV2P5R6VJOqK72IiSV9t/4H5r/HiRqEBQ83bYGuz4Yzfdj4bjaAEhZN/FFbsFXr5bOA==}
     engines: {node: '>=10'}
     hasBin: true
     dependencies:
@@ -8053,7 +8053,7 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       hosted-git-info: 4.0.2
-      is-core-module: 2.8.0
+      is-core-module: 2.8.1
       semver: 7.3.5
       validate-npm-package-license: 3.0.4
     dev: true
